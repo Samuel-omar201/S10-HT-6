@@ -12,7 +12,7 @@ NOTA: Por motivos de persistencia de datos en diferentes ambientes se agrego un 
 - Acceder a `http://localhost:3000/users` para interactuar con la API.
 
 // URL de la API desplegada
-
+https://s10-ht-6.onrender.com/
 
 
 \\\ Endpoints
